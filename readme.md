@@ -312,21 +312,6 @@ openai-status-monitor/
 - Minimal network usage (respects API rate limits)
 - Can run 24/7 without issues
 
-## 🤝 Submission
-
-**Submitted to**: submissions@bolna.ai
-
-**Contents**:
-- `status_monitor.py` - Main application code
-- `requirements.txt` - Python dependencies
-- `README.md` - This documentation
-
-**Features Demonstrated**:
-- Event-based architecture (not inefficient polling)
-- Efficient change detection (content hashing)
-- Scalable design (can handle 100+ status pages)
-- Production-ready code quality
-- Clean console output format
 
 ## 📄 License
 
